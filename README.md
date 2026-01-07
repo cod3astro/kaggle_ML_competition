@@ -16,5 +16,4 @@ Each folder in this repository corresponds to a different competition and includ
 
 📈 Evaluation and results.
 
-Thanks for stopping by. 
- 
+Thanks for stopping by.
