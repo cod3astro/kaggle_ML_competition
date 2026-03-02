@@ -15,5 +15,5 @@ Each folder in this repository corresponds to a different competition and includ
 📝 Submission files
 
 📈 Evaluation and results
-
+ 
 Thanks for stopping by. 
