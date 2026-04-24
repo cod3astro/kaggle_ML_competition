@@ -12,7 +12,7 @@ Each folder in this repository corresponds to a different competition and includ
 
 🤖 Model training and tuning
 
-📝 Submission files 
+📝 Submission files
 
 📈 Evaluation and results
  
